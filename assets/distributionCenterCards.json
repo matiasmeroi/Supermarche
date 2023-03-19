@@ -1,0 +1,69 @@
+[
+
+  {
+    "id": 1,
+    "prices": {
+      "PRODUCE": 1,
+      "BAKERY": 2,
+      "DAIRY": 3,
+      "DRY_GOODS": 4,
+      "FROZEN": 5
+    }
+  },
+
+  {
+    "id": 2,
+    "prices": {
+      "PRODUCE": 1,
+      "BAKERY": 2,
+      "DAIRY": 3,
+      "DRY_GOODS": 3,
+      "FROZEN": 4
+    }
+  },
+
+  {
+    "id": 3,
+    "prices": {
+      "PRODUCE": 2,
+      "BAKERY": 3,
+      "DAIRY": 1,
+      "DRY_GOODS": 3,
+      "FROZEN": 3
+    }
+  },
+
+  {
+    "id": 4,
+    "prices": {
+      "PRODUCE": 1,
+      "BAKERY": 2,
+      "DAIRY": 2,
+      "DRY_GOODS": 6,
+      "FROZEN": 4
+    }
+  },
+
+  {
+    "id": 5,
+    "prices": {
+      "PRODUCE": 3,
+      "BAKERY": 1,
+      "DAIRY": 2,
+      "DRY_GOODS": 5,
+      "FROZEN": 3
+    }
+  },
+
+  {
+    "id": 6,
+    "prices": {
+      "PRODUCE": 1,
+      "BAKERY": 3,
+      "DAIRY": 2,
+      "DRY_GOODS": 5,
+      "FROZEN": 3
+    }
+  }
+
+]

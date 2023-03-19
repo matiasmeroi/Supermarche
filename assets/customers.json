@@ -1,0 +1,474 @@
+[
+  {
+    "name": "Regina",
+    "cartSize": 3,
+    "penalty": 4,
+    "ranges": [
+      "NO_ITEM", "NO_ITEM",
+      "FROZEN", "FROZEN", "FROZEN",
+      "DAIRY", "DAIRY",
+      "PRODUCE",
+      "BAKERY", "BAKERY",
+      "DRY_GOODS", "DRY_GOODS", "DRY_GOODS"
+    ],
+    "numCoupons": 1,
+    "id": 1
+  },
+
+  {
+    "name": "Ryan",
+    "cartSize": 2,
+    "penalty": 2 ,
+    "ranges": [
+      "NO_ITEM", "NO_ITEM",
+      "PRODUCE", "PRODUCE",
+      "DAIRY", "DAIRY",
+      "FROZEN", "FROZEN", "FROZEN",
+      "DRY_GOODS", "DRY_GOODS",
+      "BAKERY", "BAKERY"
+    ],
+    "numCoupons": 1,
+    "id": 2
+  },
+
+  {
+    "name": "Rory",
+    "cartSize": 1,
+    "penalty": 4,
+    "ranges": [
+      "NO_ITEM", "NO_ITEM",
+      "DRY_GOODS", "DRY_GOODS", "DRY_GOODS", "DRY_GOODS",
+      "DAIRY", "DAIRY", "DAIRY",
+      "PRODUCE", "PRODUCE", "PRODUCE", "PRODUCE"
+    ],
+    "id": 3
+  },
+
+  {
+    "name": "Mo",
+    "cartSize": 1,
+    "penalty": 3,
+    "ranges": [
+      "NO_ITEM", "NO_ITEM",
+      "DAIRY", "DAIRY",
+      "PRODUCE", "PRODUCE", "PRODUCE", "PRODUCE",
+      "BAKERY", "BAKERY", "BAKERY",
+      "DRY_GOODS", "DRY_GOODS"
+    ],
+    "id": 4
+  },
+
+
+  {
+    "name": "Lesley",
+    "cartSize": 3,
+    "penalty": 5,
+    "ranges": [
+      "NO_ITEM", "NO_ITEM",
+      "DRY_GOODS",
+      "DAIRY", "DAIRY", "DAIRY",
+      "PRODUCE", "PRODUCE", "PRODUCE",
+      "BAKERY", "BAKERY", "BAKERY",
+      "FROZEN"
+    ],
+    "id": 5
+  },
+
+  {
+    "name": "Dave",
+    "cartSize": 5,
+    "penalty": 12,
+    "bonus": 8,
+    "ranges": [
+      "NO_ITEM", "NO_ITEM",
+      "PRODUCE", "PRODUCE", "PRODUCE",
+      "BAKERY", "BAKERY",
+      "DAIRY",
+      "DRY_GOODS", "DRY_GOODS", "DRY_GOODS",
+      "FROZEN", "FROZEN"
+    ],
+    "numCoupons": 2,
+    "id": 6
+  },
+
+  {
+    "name": "Amanda",
+    "cartSize": 3,
+    "penalty": 5,
+    "ranges": [
+      "NO_ITEM", "NO_ITEM",
+      "PRODUCE", "PRODUCE",
+      "FROZEN", "FROZEN", "FROZEN",
+      "DRY_GOODS", "DRY_GOODS", "DRY_GOODS",
+      "BAKERY", "BAKERY", "BAKERY"
+    ],
+    "id": 7
+  },
+
+  {
+    "name": "Scott",
+    "cartSize": 2,
+    "penalty": 6,
+    "ranges": [
+      "NO_ITEM", "NO_ITEM",
+      "BAKERY",
+      "PRODUCE", "PRODUCE", "PRODUCE", "PRODUCE",
+      "DAIRY", "DAIRY", "DAIRY", "DAIRY", "DAIRY",
+      "DRY_GOODS"
+    ],
+    "id": 8
+  },
+
+  {
+    "name": "Wendell",
+    "cartSize": 1,
+    "penalty": 5,
+    "ranges": [
+      "NO_ITEM", "NO_ITEM",
+      "FROZEN", "FROZEN", "FROZEN", "FROZEN",
+      "DRY_GOODS",
+      "BAKERY",
+      "PRODUCE",
+      "DAIRY", "DAIRY", "DAIRY", "DAIRY"
+    ],
+    "id": 9
+  },
+
+  {
+    "name": "Diane",
+    "cartSize": 4,
+    "penalty": 7,
+    "ranges": [
+      "NO_ITEM", "NO_ITEM",
+      "DAIRY", "DAIRY",
+      "BAKERY", "BAKERY", "BAKERY", "BAKERY", "BAKERY", "BAKERY", "BAKERY",
+      "FROZEN", "FROZEN"
+    ],
+    "id": 10
+  },
+
+  {
+    "name": "Gary",
+    "cartSize": 4,
+    "penalty": 7,
+    "ranges": [
+      "NO_ITEM", "NO_ITEM",
+      "DRY_GOODS", "DRY_GOODS", "DRY_GOODS",
+      "DAIRY", "DAIRY",
+      "PRODUCE", "PRODUCE",
+      "BAKERY", "BAKERY",
+      "FROZEN", "FROZEN"
+    ],
+    "numCoupons": 2,
+    "id": 11
+  },
+
+  {
+    "name": "Margaret",
+    "cartSize": 2,
+    "penalty": 3,
+    "ranges": [
+      "NO_ITEM", "NO_ITEM",
+      "FROZEN", "FROZEN", "FROZEN",
+      "PRODUCE", "PRODUCE",
+      "DAIRY", "DAIRY",
+      "BAKERY", "BAKERY",
+      "DRY_GOODS", "DRY_GOODS"
+    ],
+    "id": 12
+  },
+
+  {
+    "name": "Amy",
+    "cartSize": 5,
+    "penalty": 15,
+    "bonus": 10,
+    "ranges": [
+      "NO_ITEM", "NO_ITEM",
+      "FROZEN", "FROZEN", "FROZEN",
+      "DRY_GOODS", "DRY_GOODS",
+      "PRODUCE", "PRODUCE",
+      "BAKERY", "BAKERY", "BAKERY",
+      "DAIRY"
+    ],
+    "id": 13
+  },
+
+  {
+    "name": "Tiffany",
+    "cartSize": 2,
+    "penalty": 3,
+    "ranges": [
+      "NO_ITEM", "NO_ITEM",
+      "DRY_GOODS", "DRY_GOODS", "DRY_GOODS",
+      "BAKERY", "BAKERY",
+      "PRODUCE",
+      "DAIRY",
+      "FROZEN", "FROZEN", "FROZEN", "FROZEN"
+    ],
+    "numCoupons": 1,
+    "id": 14
+  },
+
+  {
+    "name": "Chris",
+    "cartSize": 4,
+    "penalty": 9,
+    "ranges": [
+      "NO_ITEM", "NO_ITEM",
+      "DAIRY",
+      "PRODUCE", "PRODUCE", "PRODUCE", "PRODUCE",
+      "DRY_GOODS", "DRY_GOODS", "DRY_GOODS",
+      "BAKERY",
+      "FROZEN", "FROZEN"
+    ],
+    "numCoupons": 1,
+    "id": 15
+  },
+
+
+  {
+    "name": "George",
+    "cartSize": 4,
+    "penalty": 8,
+    "ranges": [
+      "NO_ITEM", "NO_ITEM",
+      "BAKERY", "BAKERY", "BAKERY", "BAKERY", "BAKERY", "BAKERY",
+      "FROZEN", "FROZEN", "FROZEN", "FROZEN", "FROZEN"
+    ],
+    "numCoupons": 1,
+    "id": 16
+  },
+
+
+  {
+    "name": "Mikolaj",
+    "cartSize": 2,
+    "penalty": 4,
+    "ranges": [
+      "NO_ITEM", "NO_ITEM",
+      "DAIRY", "DAIRY", "DAIRY",
+      "DRY_GOODS", "DRY_GOODS",
+      "BAKERY",
+      "FROZEN", "FROZEN",
+      "PRODUCE", "PRODUCE", "PRODUCE"
+    ],
+    "numCoupons": 1,
+    "id": 17
+  },
+
+
+  {
+    "name": "Rose",
+    "cartSize": 3,
+    "penalty": 6,
+    "ranges": [
+      "NO_ITEM", "NO_ITEM",
+      "PRODUCE", "PRODUCE", "PRODUCE",
+      "DAIRY",
+      "FROZEN", "FROZEN",
+      "DRY_GOODS", "DRY_GOODS", "DRY_GOODS",
+      "BAKERY", "BAKERY"
+    ],
+    "numCoupons": 1,
+    "id": 18
+  },
+
+
+
+  {
+    "name": "Stu",
+    "cartSize": 2,
+    "penalty": 8,
+    "ranges": [
+      "NO_ITEM", "NO_ITEM",
+      "FROZEN", "FROZEN", "FROZEN",
+      "FROZEN", "FROZEN", "FROZEN",
+      "FROZEN", "FROZEN", "FROZEN",
+      "FROZEN", "FROZEN"
+    ],
+    "id": 19
+  },
+
+
+  {
+    "name": "Melanie",
+    "cartSize": 1,
+    "penalty": 5,
+    "ranges": [
+      "NO_ITEM", "NO_ITEM",
+      "FROZEN", "FROZEN",
+      "BAKERY",
+      "DRY_GOODS","DRY_GOODS","DRY_GOODS",
+      "DAIRY", "DAIRY", "DAIRY",
+      "PRODUCE", "PRODUCE"
+    ],
+    "id": 20
+  },
+
+
+  {
+    "name": "Phil",
+    "cartSize": 4,
+    "penalty": 10,
+    "ranges": [
+      "NO_ITEM", "NO_ITEM",
+      "DRY_GOODS", "DRY_GOODS",
+      "PRODUCE", "PRODUCE", "PRODUCE",
+      "DAIRY", "DAIRY", "DAIRY",
+      "BAKERY", "BAKERY", "BAKERY"
+    ],
+    "numCoupons": 2,
+    "id": 21
+  },
+
+
+  {
+    "name": "Zoë",
+    "cartSize": 5,
+    "penalty": 13,
+    "bonus": 9,
+    "ranges": [
+      "NO_ITEM", "NO_ITEM",
+      "FROZEN", "FROZEN", "FROZEN",
+      "BAKERY", "BAKERY", "BAKERY",
+      "DRY_GOODS",
+      "DAIRY", "DAIRY",
+      "PRODUCE", "PRODUCE"
+    ],
+    "numCoupons": 1,
+    "id": 22
+  },
+
+  {
+    "name": "Chad",
+    "cartSize": 3,
+    "penalty": 6,
+    "ranges": [
+      "NO_ITEM", "NO_ITEM",
+      "DAIRY", "DAIRY",
+      "BAKERY", "BAKERY", "BAKERY",
+      "PRODUCE", "PRODUCE",
+      "FROZEN",
+      "DRY_GOODS", "DRY_GOODS", "DRY_GOODS"
+    ],
+    "numCoupons": 1,
+    "id": 23
+  },
+
+
+  {
+    "name": "Albert",
+    "cartSize": 3,
+    "penalty": 5,
+    "ranges": [
+      "NO_ITEM", "NO_ITEM",
+      "DRY_GOODS","DRY_GOODS","DRY_GOODS",
+      "PRODUCE", "PRODUCE",
+      "BAKERY",
+      "DAIRY","DAIRY","DAIRY",
+      "FROZEN", "FROZEN"
+    ],
+    "numCoupons": 1,
+    "id": 24
+  },
+
+
+  {
+    "name": "Jordan",
+    "cartSize": 3,
+    "penalty": 8,
+    "ranges": [
+      "NO_ITEM", "NO_ITEM",
+      "DAIRY", "DAIRY", "DAIRY",
+      "PRODUCE",
+      "BAKERY", "BAKERY", "BAKERY",
+      "FROZEN",
+      "DRY_GOODS", "DRY_GOODS", "DRY_GOODS"
+    ],
+    "id": 25
+  },
+
+
+  {
+    "name": "Martha",
+    "cartSize": 2,
+    "penalty": 6,
+    "ranges": [
+      "NO_ITEM", "NO_ITEM",
+      "BAKERY", "BAKERY", "BAKERY", "BAKERY",
+      "PRODUCE", "PRODUCE",
+      "DAIRY", "DAIRY",
+      "FROZEN", "FROZEN", "FROZEN"
+    ],
+    "numCoupons": 1,
+    "id": 26
+  },
+
+
+  {
+    "name": "Jackie",
+    "cartSize": 4,
+    "penalty": 9,
+    "ranges": [
+      "NO_ITEM", "NO_ITEM",
+      "BAKERY", "BAKERY",
+      "PRODUCE", "PRODUCE", "PRODUCE",
+      "DAIRY",
+      "DRY_GOODS", "DRY_GOODS", "DRY_GOODS",
+      "FROZEN", "FROZEN"
+    ],
+    "numCoupons": 2,
+    "id": 27
+  },
+
+
+  {
+    "name": "Donna",
+    "cartSize": 1,
+    "penalty": 8,
+    "ranges": [
+      "NO_ITEM", "NO_ITEM",
+      "DRY_GOODS", "DRY_GOODS", "DRY_GOODS",
+      "PRODUCE",
+      "BAKERY", "BAKERY",
+      "DAIRY", "DAIRY",
+      "FROZEN", "FROZEN", "FROZEN"
+    ],
+    "id": 28
+  },
+
+
+  {
+    "name": "Clara",
+    "cartSize": 3,
+    "penalty": 7,
+    "ranges": [
+      "NO_ITEM", "NO_ITEM",
+      "DRY_GOODS", "DRY_GOODS", "DRY_GOODS",
+      "DAIRY", "DAIRY",
+      "BAKERY",
+      "FROZEN",
+      "PRODUCE", "PRODUCE", "PRODUCE",  "PRODUCE"
+    ],
+    "numCoupons": 2,
+    "id": 29
+  },
+
+
+  {
+    "name": "Jacob",
+    "cartSize": 4,
+    "penalty": 8,
+    "ranges": [
+      "NO_ITEM", "NO_ITEM",
+      "PRODUCE", "PRODUCE", "PRODUCE",
+      "BAKERY",
+      "FROZEN", "FROZEN",
+      "DRY_GOODS", "DRY_GOODS",
+      "DAIRY", "DAIRY", "DAIRY"
+    ],
+    "numCoupons": 1,
+    "id": 30
+  }
+]
